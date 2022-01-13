@@ -1,0 +1,80 @@
+.container{
+	padding: 0 10px;
+}
+
+.header___inner{
+	min-height: 80px;
+	color: #777;
+	display: flex;
+	justify-content: space-between;
+	align-items:center;
+}
+.name{
+	padding-left: 150px;
+	font-size: 500%;
+}
+.da{
+	color: #ADAECC;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 400%;
+}
+.history{
+	height: 50px;
+	color: #ADAECC;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 400%;
+}
+.som{
+	padding:0 400px;
+	font-size: 300%;
+	display: flex;
+	justify-content: center;
+	color: #777;
+}
+.pic{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+section.contact{
+    width: 100%;
+    max-width: 1200px;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.connection{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.contact_tel{
+    width: 35px;
+    height: 35px;
+    background-image: url(../img/Telephone.png); 
+    background-size: cover; 
+    margin-right: 5px;  
+}
+.contact_number{
+    display: flex;
+    align-items: center;
+}
+.contact_number p{
+    font-size: 2.5vh;
+}
+.contact_mail{
+    width: 35px;
+    height: 35px;
+    background-image: url(../img/Pochta.png); 
+    background-size: contain;
+    margin-right: 10px;
+}
+.contact_addres p{
+    font-size: 2.5vh;
